@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T01:27:39.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="8nzZqmCm9EblrcayEOcc" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T01:28:48.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Hlnu6jtuUFxCP0SWXwt9" version="13.8.1" type="github">
   <diagram id="A_wYnvS-wCIYyP_TFe44" name="Page-1">
     <mxGraphModel dx="1254" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,6 +60,12 @@
             <mxPoint x="90" y="458" as="targetPoint" />
             <mxPoint x="90" y="418" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9F1OHB0WLYa_Q_a-96xW-86" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="9F1OHB0WLYa_Q_a-96xW-42">
+          <mxGeometry x="20" y="600" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9F1OHB0WLYa_Q_a-96xW-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9F1OHB0WLYa_Q_a-96xW-42" source="9F1OHB0WLYa_Q_a-96xW-78" target="9F1OHB0WLYa_Q_a-96xW-86">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9F1OHB0WLYa_Q_a-96xW-78" value="Finalizar pedido" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="9F1OHB0WLYa_Q_a-96xW-42">
           <mxGeometry x="50" y="550" width="120" height="40" as="geometry" />

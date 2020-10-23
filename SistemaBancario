@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T01:26:30.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="St5rJ4fGws2hlR4pnR-G" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T01:31:00.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="O5r9Jk3MXCXx8rvXgDz1" version="13.8.1" type="github">
   <diagram id="dAjmnp_zSiC_IKQG1nsP" name="Page-1">
-    <mxGraphModel dx="648" dy="258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1620" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
         <mxCell id="vbREoMuAs_cSmKV27ZWq-27" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="vbREoMuAs_cSmKV27ZWq-3">
           <mxGeometry x="-240" y="610" width="220" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="vbREoMuAs_cSmKV27ZWq-55" value="Dados inválidos" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="vbREoMuAs_cSmKV27ZWq-3" source="vbREoMuAs_cSmKV27ZWq-45">
+        <mxCell id="vbREoMuAs_cSmKV27ZWq-55" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="vbREoMuAs_cSmKV27ZWq-3" source="vbREoMuAs_cSmKV27ZWq-45">
           <mxGeometry x="-0.8" y="20" relative="1" as="geometry">
             <mxPoint x="-106.00000000000023" y="910" as="targetPoint" />
             <mxPoint x="59" y="485" as="sourcePoint" />

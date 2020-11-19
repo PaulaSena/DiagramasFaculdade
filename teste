@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T15:04:49.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.0" etag="37AmaJ9vdRa6mVc_rV3K" type="github"><diagram id="gZpxXf9AACnHSfwpQHZj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-19T16:20:34.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="YeTsJBAwbe3nN4KCBG8B" version="13.10.0" type="github">
+  <diagram id="gZpxXf9AACnHSfwpQHZj" name="Page-1">
+    <mxGraphModel dx="1102" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PgeScpb5u0a7EtXOyuty-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Venda&lt;/font&gt;&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgeScpb5u0a7EtXOyuty-2" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Produtos&lt;/font&gt;&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgeScpb5u0a7EtXOyuty-3" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Cliente&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgeScpb5u0a7EtXOyuty-4" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Funcionario&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgeScpb5u0a7EtXOyuty-5" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Despesa&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgeScpb5u0a7EtXOyuty-6" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Compra&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgeScpb5u0a7EtXOyuty-7" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Fornecedor&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="30" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgeScpb5u0a7EtXOyuty-8" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Fornecedor&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PgeScpb5u0a7EtXOyuty-9" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Recebimento&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

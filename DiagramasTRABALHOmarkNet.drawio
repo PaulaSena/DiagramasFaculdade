@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T16:13:05.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="YyYGSoxQR6NS7ab3ARjT" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T16:16:17.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="l7rd_jkYSMzYKMIDWQby" version="13.10.0" type="github">
   <diagram id="EkDo34qrDGZ_-z-unrCB" name="Page-1">
-    <mxGraphModel dx="1574" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1296" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,9 +435,6 @@
         <mxCell id="3GYnURnb8D_fZ_eO1M6K-176" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Escolher opção pagamento&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="447.5" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EJIqz_CYbdoUF1vv5kKt-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3GYnURnb8D_fZ_eO1M6K-192" target="3GYnURnb8D_fZ_eO1M6K-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EJIqz_CYbdoUF1vv5kKt-147" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3GYnURnb8D_fZ_eO1M6K-192" target="EJIqz_CYbdoUF1vv5kKt-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -451,7 +448,7 @@
           <mxGeometry x="1870" y="535" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3GYnURnb8D_fZ_eO1M6K-197" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Fornecedor&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="2060" y="590" width="30" height="60" as="geometry" />
+          <mxGeometry x="600" y="1750" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3GYnURnb8D_fZ_eO1M6K-205" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Controlar Departamento&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1560" y="595" width="110" height="50" as="geometry" />
@@ -494,9 +491,6 @@
         </mxCell>
         <mxCell id="3GYnURnb8D_fZ_eO1M6K-231" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Realizar reembolso Pedidos Cancelados&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1350" y="325" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3GYnURnb8D_fZ_eO1M6K-232" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2050" y="70" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="3GYnURnb8D_fZ_eO1M6K-234" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="3GYnURnb8D_fZ_eO1M6K-196" target="3GYnURnb8D_fZ_eO1M6K-196" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -757,7 +751,7 @@
         <mxCell id="3GYnURnb8D_fZ_eO1M6K-501" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Receber Vendas&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1620" y="1062.5" width="110" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="3GYnURnb8D_fZ_eO1M6K-502" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Armazenar dados no servidor&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3GYnURnb8D_fZ_eO1M6K-502" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Armazenar dados no servidor / ERP&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1110" y="950" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3GYnURnb8D_fZ_eO1M6K-503" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" edge="1">
@@ -838,12 +832,6 @@
         <mxCell id="EJIqz_CYbdoUF1vv5kKt-7" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Solicitar Cupom Fiscal&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="490" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EJIqz_CYbdoUF1vv5kKt-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="EJIqz_CYbdoUF1vv5kKt-31" target="EJIqz_CYbdoUF1vv5kKt-46" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EJIqz_CYbdoUF1vv5kKt-31" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Cliente&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1610" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="EJIqz_CYbdoUF1vv5kKt-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" target="EJIqz_CYbdoUF1vv5kKt-59" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -854,9 +842,6 @@
         </mxCell>
         <mxCell id="EJIqz_CYbdoUF1vv5kKt-44" value="Sistema de Estoque ERP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="1560" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="EJIqz_CYbdoUF1vv5kKt-46" value="acessa a loja" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="313" y="1650" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EJIqz_CYbdoUF1vv5kKt-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.982;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EJIqz_CYbdoUF1vv5kKt-73" target="EJIqz_CYbdoUF1vv5kKt-76">
           <mxGeometry relative="1" as="geometry" />
@@ -1046,6 +1031,9 @@
         <mxCell id="EJIqz_CYbdoUF1vv5kKt-253" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EJIqz_CYbdoUF1vv5kKt-235" target="EJIqz_CYbdoUF1vv5kKt-252">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EJIqz_CYbdoUF1vv5kKt-275" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EJIqz_CYbdoUF1vv5kKt-235" target="EJIqz_CYbdoUF1vv5kKt-274">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EJIqz_CYbdoUF1vv5kKt-235" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Controlar Financeiro&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="3137.5" width="110" height="50" as="geometry" />
         </mxCell>
@@ -1111,6 +1099,12 @@
         </mxCell>
         <mxCell id="EJIqz_CYbdoUF1vv5kKt-261" value="Impressão de recibos e promissórias" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="755" y="3187.5" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EJIqz_CYbdoUF1vv5kKt-274" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Controlar dados Fornecedor&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="3106.25" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EJIqz_CYbdoUF1vv5kKt-276" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Fornecedor&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2038" y="1320" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

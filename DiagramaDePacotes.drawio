@@ -1,1 +1,132 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T23:19:39.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.58 Safari/537.36" version="15.0.3" etag="qtqxmo9AjGh6DGGnq-D_" type="github"><diagram id="4XsEfohszWGFxZgtOuR9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-31T23:44:03.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.58 Safari/537.36" etag="Sw0BDWK_o0OqV1WFSHK3" version="15.0.3" type="github">
+  <diagram id="4XsEfohszWGFxZgtOuR9" name="Page-1">
+    <mxGraphModel dx="1117" dy="1014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YCboyiLOaAwax8gsOVvD-1" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="200" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-3" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="95" width="160" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-4" value="Login" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="340" y="58" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-7" value="Interface de Login" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=20;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="YCboyiLOaAwax8gsOVvD-8" target="YCboyiLOaAwax8gsOVvD-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="315" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="340" />
+              <mxPoint x="350" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-8" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="211" width="160" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-9" value="Lógica de Login" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="300.5" y="231.5" width="101" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-16" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="40" width="200" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-17" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="99" width="160" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-18" value="Relatórios" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="560" y="58" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-19" value="Interface de &#xa;Relatórios" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="530" y="127.5" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-20" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="216" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-21" value="Lógica de &#xa;Relatórios" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="530" y="240" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-22" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="440" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-23" value="Base de Dados" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="320" y="470" width="130" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=open;endFill=0;entryX=0.964;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YCboyiLOaAwax8gsOVvD-20" target="YCboyiLOaAwax8gsOVvD-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="318.08000000000004" y="359.01" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-27" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="40" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-28" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="99" width="160" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-29" value="Reembolsos" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="790" y="58" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-30" value="Interface de &#xa;Reembolsos" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="760" y="127.5" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-31" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="216" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-32" value="Lógica de &#xa;Reembolsos" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="760" y="240" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="YCboyiLOaAwax8gsOVvD-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="480" />
+              <mxPoint x="570" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-35" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="330" width="160" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-36" value="Lógica de interação &#xa;com o Banco" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="760" y="357" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-38" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="40" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-39" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="99" width="160" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-40" value="Contribuições" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="58" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-41" value="Interface de &#xa;Contribuições" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="990" y="120" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-42" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="216" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-43" value="Lógica de &#xa;Contribuições" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="990" y="237" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.727;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="YCboyiLOaAwax8gsOVvD-44" target="YCboyiLOaAwax8gsOVvD-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-44" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="330" width="160" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="YCboyiLOaAwax8gsOVvD-46" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Lógica de interação&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;com o Banco&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="350" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

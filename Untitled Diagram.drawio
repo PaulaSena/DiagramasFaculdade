@@ -1,1 +1,183 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T23:53:25.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.58 Safari/537.36" version="15.0.3" etag="J6b7uIVKGcKyl3dV38Ze" type="github"><diagram id="p-M0TFqTiAjjZX5P43tF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-01T00:54:42.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.58 Safari/537.36" etag="9unWtMhvmwmrLjuAavSZ" version="15.0.3" type="github">
+  <diagram id="p-M0TFqTiAjjZX5P43tF" name="Page-1">
+    <mxGraphModel dx="2130" dy="2352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KR0o5djqukRBfuE_Jona-41" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="-5" width="1780" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-1" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="230" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.144;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="KR0o5djqukRBfuE_Jona-3" target="KR0o5djqukRBfuE_Jona-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="226" y="500" />
+              <mxPoint x="226" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-3" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="166" width="190" height="324" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-4" value="Cadastro " style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=3;perimeterSpacing=4;" vertex="1" parent="1">
+          <mxGeometry x="171" y="140" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-5" value="Cadastro Animais" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="160" y="178" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.494;entryY=0.154;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="KR0o5djqukRBfuE_Jona-7" target="KR0o5djqukRBfuE_Jona-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-7" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="146" y="511" width="160" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-8" value="Cadastro Clientes" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="159" y="528" width="101" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-16" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="770" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-17" value="Base de Dados" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="190" y="800" width="130" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-19" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="230" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.178;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="KR0o5djqukRBfuE_Jona-21" target="KR0o5djqukRBfuE_Jona-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-21" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="86" width="160" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-22" value="Serviços" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="705" y="60" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-23" value="Hotelaria" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="660" y="114" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-25" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="390" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-26" value="Higiene&#xa;" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="655" y="410" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="KR0o5djqukRBfuE_Jona-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="740" />
+              <mxPoint x="300" y="740" />
+            </Array>
+            <mxPoint x="690" y="722.9999999999995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.204;entryY=0.136;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="KR0o5djqukRBfuE_Jona-42" target="KR0o5djqukRBfuE_Jona-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-42" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="597" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-43" value="Cadastro Funcionario" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="160.5" y="609.5" width="129.5" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-48" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="146" y="216" width="130" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-49" value="Cachorro" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="161.25" y="238" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-51" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="431" width="130" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-52" value="Banho e Tosa" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="665" y="443.25" width="100" height="24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-53" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="180" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-54" value="Clinica Veteria" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="660" y="202" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-55" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144.5" y="275" width="130" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-56" value="Gatos" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="159.75" y="297" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-57" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="146" y="344.5" width="130" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-58" value="Passaros" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="161.25" y="366.5" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-59" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144.5" y="410" width="130" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-60" value="Peixes" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="159.75" y="432" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.148;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="KR0o5djqukRBfuE_Jona-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="384" y="783" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-63" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="230" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-65" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="156" width="190" height="324" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-66" value="Suprimentos e Insumos&#xa;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=3;perimeterSpacing=4;" vertex="1" parent="1">
+          <mxGeometry x="421" y="130" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-67" value="Produtos" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="410" y="168" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-73" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="206" width="130" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-74" value="Cachorro" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="411.25" y="228" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-75" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394.5" y="265" width="130" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-76" value="Gatos" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="409.75" y="287" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-77" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="334.5" width="130" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-78" value="Passaros" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="411.25" y="356.5" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-79" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394.5" y="400" width="130" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-80" value="Peixes" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="409.75" y="422" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-81" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="228" width="130" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-82" value="Cirurgia" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="670" y="240.25" width="100" height="24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-83" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="285.5" width="130" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-84" value="Vacinas" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="670" y="297.75" width="100" height="24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-86" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="490" width="130" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KR0o5djqukRBfuE_Jona-87" value="Cote de Unha" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="665" y="502.25" width="100" height="24.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
